@@ -1,70 +1,143 @@
-# LACKADAISICAL SECURITY PROPRIETARY LICENSE
+# LACKADAISICAL SECURITY SYSTEMS - PROPRIETARY LICENSE AGREEMENT
 
-**CONFIDENTIAL - PROPRIETARY SOFTWARE**
+**CLASSIFICATION: CONFIDENTIAL - CONTROLLED TECHNOLOGY**
 
-© 2025 Lackadaisical Security. All Rights Reserved.
+**WARNING: This software contains export-controlled technology subject to the Export Administration Regulations (EAR) and International Traffic in Arms Regulations (ITAR). Unauthorized export, re-export, or transfer may result in severe criminal and civil penalties.**
 
-## 1. LICENSE GRANT
+© 2025 Lackadaisical Security Systems, LLC. All Rights Reserved.
 
-This License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Lackadaisical Security ("Licensor") for the software product identified above, which includes computer software and may include associated media, printed materials, and electronic documentation ("Software").
+## SECURITY NOTICE
 
-By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install or use the Software.
+This software system contains advanced offensive security capabilities including but not limited to:
+- Kernel-level exploitation techniques
+- Advanced persistent threat (APT) methodologies
+- Anti-forensic and anti-analysis capabilities
+- Cryptographic systems with post-quantum implementations
+- Hardware-level persistence mechanisms
 
-Subject to the terms and conditions of this Agreement, Licensor hereby grants you a limited, non-transferable, non-exclusive license to use the Software solely for your internal business purposes.
+**DISTRIBUTION IS RESTRICTED TO AUTHORIZED PERSONNEL ONLY**
 
-## 2. OWNERSHIP AND CONFIDENTIALITY
+## 1. LICENSE GRANT AND RESTRICTIONS
 
-The Software is owned and copyrighted by Lackadaisical Security. Your license confers no title or ownership in the Software and should not be construed as a sale of any rights in the Software.
+This License Agreement ("Agreement") is a legal agreement between the authorized licensee ("Licensee") and Lackadaisical Security Systems, LLC ("Licensor") for the Lackadaisical Command and Control Security System ("Software").
 
-The Software contains valuable trade secrets and confidential information belonging to the Licensor. You acknowledge that the source code for the Software is confidential information. You agree not to disclose, provide, or otherwise make available such confidential information in any form to any third party without the prior written consent of Licensor.
+### 1.1 Limited License Grant
+Subject to the terms and conditions of this Agreement and upon verification of appropriate security clearance and authorization, Licensor grants Licensee a limited, non-transferable, non-exclusive, revocable license to use the Software solely for:
+- Authorized government operations
+- Licensed security research
+- Approved penetration testing engagements
+- Other uses explicitly authorized in writing by Licensor
 
-## 3. RESTRICTIONS
+### 1.2 Prohibited Uses
+The Software SHALL NOT be used for:
+- Unauthorized access to computer systems
+- Criminal activities of any kind
+- Activities violating any applicable laws or regulations
+- Transfer to non-authorized parties or foreign nationals
+- Reverse engineering for malicious purposes
+- Creation of derivative works without explicit authorization
 
-You may NOT:
-- Copy, distribute, or sublicense the Software
-- Modify, translate, reverse engineer, decompile, disassemble the Software
-- Create derivative works based on the Software
-- Rent, lease, loan, resell, or otherwise transfer the Software
-- Remove any proprietary notices or labels on the Software
-- Use the Software for any purpose that is illegal or prohibited by this Agreement
-- Use the Software in any manner that could damage, disable, overburden, or impair any Licensor server, or interfere with any other party's use and enjoyment of the Software
+## 2. SECURITY REQUIREMENTS
 
-## 4. UPDATES AND MAINTENANCE
+### 2.1 Handling Requirements
+- The Software must be stored on encrypted media meeting FIPS 140-2 Level 2 standards
+- Access must be restricted to personnel with appropriate security clearance
+- All usage must be logged and auditable
+- The Software must not be connected to public networks without proper isolation
 
-Licensor may, at its discretion, provide updates, bug fixes, or new versions of the Software. Such updates may be subject to additional terms or fees.
+### 2.2 Personnel Requirements
+- Users must undergo background verification
+- Users must sign additional non-disclosure agreements
+- Users must complete security awareness training specific to this technology
 
-## 5. TERM AND TERMINATION
+## 3. EXPORT CONTROL COMPLIANCE
 
-This Agreement is effective until terminated. You may terminate this Agreement at any time by destroying all copies of the Software in your possession. Your rights under this Agreement will terminate automatically without notice if you fail to comply with any term of this Agreement.
+This Software is subject to export control laws and regulations including but not limited to:
+- U.S. Export Administration Regulations (EAR)
+- International Traffic in Arms Regulations (ITAR)
+- Wassenaar Arrangement on Export Controls
 
-Upon termination, you must cease all use of the Software and destroy all copies.
+The Licensee agrees to comply with all applicable export and import laws and regulations and acknowledges that failure to do so may result in severe penalties including criminal prosecution.
 
-## 6. DISCLAIMER OF WARRANTIES
+## 4. CONFIDENTIALITY AND PROPRIETARY RIGHTS
 
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+### 4.1 Confidential Information
+The Software contains highly confidential trade secrets and proprietary information including:
+- Source code and algorithms
+- Cryptographic implementations
+- Evasion techniques and methodologies
+- Kernel-level exploitation methods
+- Communication protocols and obfuscation techniques
+
+### 4.2 Protection Obligations
+The Licensee agrees to:
+- Maintain the Software in strict confidence
+- Implement physical and technical safeguards
+- Limit access on a need-to-know basis
+- Report any suspected compromise immediately
+- Return or destroy all copies upon termination
+
+## 5. AUDITING AND COMPLIANCE
+
+The Licensor reserves the right to:
+- Conduct security audits of Licensee's use
+- Monitor compliance with license terms
+- Require activity reports
+- Immediately revoke access for violations
+
+## 6. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE SOFTWARE IS DESIGNED FOR PROFESSIONAL SECURITY OPERATIONS AND MAY CAUSE SYSTEM INSTABILITY OR DAMAGE IF USED IMPROPERLY.
 
 ## 7. LIMITATION OF LIABILITY
 
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, OR LOST INFORMATION) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-## 8. EXPORT REGULATIONS
+THE LICENSEE ASSUMES ALL RESPONSIBILITY FOR THE USE OF THE SOFTWARE AND AGREES TO INDEMNIFY AND HOLD HARMLESS THE LICENSOR FROM ANY CLAIMS ARISING FROM SUCH USE.
 
-The Software may be subject to export or import regulations, and you agree to comply with all applicable international and national laws that apply to the Software.
+## 8. TERMINATION
 
-## 9. GOVERNING LAW
+This Agreement may be terminated:
+- Immediately upon any breach of security requirements
+- Upon discovery of unauthorized use or distribution
+- At the discretion of the Licensor with 24 hours notice
+- By mutual agreement of the parties
 
-This Agreement shall be governed by the laws of [Jurisdiction], without regard to its conflict of law provisions.
+Upon termination, all copies of the Software must be immediately destroyed and such destruction certified in writing.
 
-## 10. ENTIRE AGREEMENT
+## 9. GOVERNING LAW AND JURISDICTION
 
-This Agreement constitutes the entire agreement between you and Licensor and supersedes any prior agreement concerning the Software.
+This Agreement shall be governed by the laws of the United States and the State of [REDACTED], without regard to conflict of law provisions. Any disputes shall be subject to the exclusive jurisdiction of the federal courts.
+
+## 10. ACKNOWLEDGMENT
+
+BY USING THIS SOFTWARE, THE LICENSEE ACKNOWLEDGES THAT:
+- They have read and understood this Agreement
+- They have appropriate authorization to use this technology
+- They understand the security implications and responsibilities
+- They will comply with all applicable laws and regulations
+- Violation of this Agreement may result in criminal prosecution
+
+## INCIDENT REPORTING
+
+Security incidents or suspected compromises must be reported immediately to:
+- Security Operations Center: [REDACTED]
+- Legal Department: [REDACTED]
+- Export Compliance Officer: [REDACTED]
 
 ---
 
-**CONFIDENTIAL MATERIALS**
+**DISTRIBUTION STATEMENT**
+Distribution authorized to U.S. Government agencies and their contractors only. Other requests for this document shall be referred to Lackadaisical Security Systems Legal Department.
 
-This software contains confidential and proprietary information of Lackadaisical Security. Access is restricted to authorized users only. Unauthorized access, use, or disclosure is strictly prohibited and may result in civil and criminal penalties.
+**DESTRUCTION NOTICE**
+Destroy by any method that will prevent disclosure of contents or reconstruction of the document.
 
-**CLASSIFIED LEVEL: CONFIDENTIAL**
+**CONTROLLED BY**: Lackadaisical Security Systems, LLC  
+**CONTROLLED COPY NUMBER**: [TO BE ASSIGNED]  
+**DATE OF ISSUE**: January 2025  
+**CLASSIFICATION REVIEW DATE**: January 2026  
 
-FOR AUTHORIZED USE ONLY
+**END OF DOCUMENT**
