@@ -19,13 +19,13 @@ This competitive analysis used the following methodology:
 5. **Qualitative Assessment**: Analysis of strengths, weaknesses, and unique capabilities
 6. **Market Positioning**: Evaluation of market adoption, community support, and enterprise readiness
 
-Data was collected from public repositories, product documentation, technical papers, and security research publications between January and May 2023.
+Data was collected from public repositories, product documentation, technical papers, and security research publications between January and May 2025.
 
 ## Command and Control Frameworks Analyzed
 
 | Solution | Type | Primary Users | Market Position | Initial Release |
 |----------|------|---------------|-----------------|-----------------|
-| Lackadaisical | Commercial | Red Teams, Security Researchers | Emerging | 2023 |
+| Lackadaisical | Commercial | Red Teams, Security Researchers | Emerging | 2025 |
 | Cobalt Strike | Commercial | Professional Red Teams, APTs | Market Leader | 2012 |
 | Metasploit Framework | Open Source/Commercial | Penetration Testers, Security Professionals | Established | 2003 |
 | Empire | Open Source | Red Teams, Security Researchers | Declining | 2015 |
@@ -737,4 +737,4 @@ However, the product faces substantial challenges in market adoption due to ente
 
 The next 12-24 months will be critical for the product's market trajectory. With proper strategic execution focusing on both technical leadership and practical operational improvements, Lackadaisical has the potential to establish itself as a significant player in the highly specialized advanced evasion segment of the C2 framework market.
 
-*This enhanced competitive analysis was compiled based on extensive code review, feature comparison, and technical architecture analysis conducted in May 2023. Features marked with ⭐ indicate market-leading implementations.*
+*This enhanced competitive analysis was compiled based on extensive code review, feature comparison, and technical architecture analysis conducted in May 2025. Features marked with ⭐ indicate market-leading implementations.*
