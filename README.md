@@ -1,5 +1,9 @@
 # Lackadaisical Command and Control Security System
 
+<p align="center">
+  <img src="https://github.com/Lackadaisical-Security/Lackadaisical-C-and-C-System/blob/main/LackadaisicalC2-icon.png" alt="Lackadaisical C2 Logo" width="300"/>
+</p>
+
 A next-generation command and control framework featuring industry-leading anti-analysis capabilities, advanced memory protection, and unprecedented evasion techniques for sophisticated security operations.
 
 ## Overview
@@ -36,12 +40,21 @@ Lackadaisical represents a paradigm shift in C2 framework design, demonstrating 
 - **Domain Fronting**: Advanced CDN-based obfuscation
 - **Custom Protocols**: Pluggable transport architecture
 
+### 🌐 Modern Web Dashboard (NEW in v2.1.0)
+- **80s Cosmic Cyberpunk Theme**: Stunning animated interface with neon effects
+- **Real-time Agent Management**: Live monitoring and control of all connected agents
+- **Interactive Command Center**: WebSocket-powered terminal with streaming output
+- **Advanced File Operations**: Drag-and-drop file management with bulk operations
+- **System Monitoring**: Real-time performance metrics and health dashboards
+- **Multi-theme Support**: Cosmic, Matrix, Hacker, and custom theme variants
+- **TeamViewer-like Features**: Remote desktop capabilities and session management
+
 ## Components
 
 - **Core Engine**: Low-level components in Assembly and C for maximum performance
 - **Agent Framework**: Modular implant architecture (C/C++)
 - **Server Infrastructure**: Distributed command center (C++/Python)
-- **Web Interface**: Modern administration dashboard (Python/JavaScript)
+- **Web Dashboard**: Modern cyberpunk-themed administration interface (Node.js/JavaScript)
 - **Plugin System**: Extensible capability framework
 - **Kernel Modules**: Platform-specific kernel components
 
@@ -104,6 +117,8 @@ A comprehensive competitive analysis comparing Lackadaisical against 14 major C2
 - Node.js 16+ for web interface
 
 ### Quick Start
+
+**Option 1: Core C2 Server**
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/lackadaisical-c2.git
@@ -119,16 +134,41 @@ cd lackadaisical-c2
 ./bin/lackadaisical-server --config config/server.conf
 ```
 
+**Option 2: Web Dashboard (Recommended)**
+```powershell
+# Navigate to web dashboard
+cd web_dashboard
+
+# Install dependencies
+npm install
+
+# Start the dashboard server
+npm start
+
+# Access at http://localhost:3000
+```
+
+The web dashboard provides a modern, cyberpunk-themed interface with real-time agent management, interactive command execution, and comprehensive file operations.
+
 Detailed setup instructions are available in [`docs/installation.md`](docs/installation.md).
 
 ## Documentation
 
-- [Installation Guide](docs/installation.md)
-- [User Manual](docs/user_manual.md)
-- [Plugin Development](docs/plugin_development.md)
-- [API Reference](docs/api_reference.md)
-- [Competitive Analysis](docs/competitive_analysis.md)
-- [Security Considerations](docs/security.md)
+### Core Documentation
+- [Installation Guide](docs/installation.md) - Complete setup instructions including web dashboard
+- [User Manual](docs/user_manual.md) - Comprehensive usage guide with web interface
+- [API Reference](docs/api_reference.md) - REST API and WebSocket documentation
+- [Security Considerations](docs/security.md) - Security best practices and hardening
+
+### Advanced Topics
+- [Plugin Development](docs/plugin_development.md) - Extending system capabilities
+- [Competitive Analysis](docs/competitive_analysis.md) - Framework comparison analysis
+- [Web Dashboard Features](web_dashboard/README.md) - Detailed dashboard documentation
+
+### Quick Links
+- **Web Dashboard**: Access at `http://localhost:3000` after running `npm start`
+- **Theme Gallery**: Cosmic, Matrix, Hacker, Blue Steel, Purple Haze themes
+- **Real-time Features**: WebSocket integration for live agent monitoring
 
 ## Future Roadmap
 
@@ -165,9 +205,10 @@ This project is licensed under a proprietary license. See [`LICENSE`](LICENSE) f
 ## Contact
 
 For commercial inquiries, support, or security issues:
-- Email: security@lackadaisical-security.com
-- Security: security@lackadaisical-security.com (PGP key in [`SECURITY.md`](SECURITY.md))
+- Email: security@lackadaisical-c2.com
+- Security: security@lackadaisical-c2.com (PGP key in [`SECURITY.md`](SECURITY.md))
 
 ---
 
 *Lackadaisical C2 - Redefining the boundaries of command and control frameworks*
+
